@@ -7,35 +7,44 @@
 	path = bssm
 	url = https://github.com/helske/bssm
 	shallow = true
+	registered = true
 [submodule "changer"]
 	path = changer
 	url = https://github.com/helske/changer
 	shallow = true
+	registered = true
 [submodule "diagis"]
 	path = diagis
 	url = https://github.com/helske/diagis
 	shallow = true
+	registered = true
 [submodule "KFAS"]
 	path = KFAS
 	url = https://github.com/helske/kfas
 	shallow = true
+	registered = true
 [submodule "ramcmc"]
 	path = ramcmc
 	url = https://github.com/helske/ramcmc
 	shallow = true
+	registered = true
 [submodule "Rlibeemd"]
 	path = Rlibeemd
 	url = https://github.com/helske/rlibeemd
 	shallow = true
+	registered = true
 [submodule "seqHMM"]
 	path = seqHMM
 	url = https://github.com/helske/seqhmm
 	shallow = true
+	registered = true
 [submodule "tsPI"]
 	path = tsPI
 	url = https://github.com/helske/tspi
 	shallow = true
+	registered = true
 [submodule "walker"]
 	path = walker
 	url = https://github.com/helske/walker
 	shallow = true
+	registered = true
