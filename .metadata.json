@@ -1,0 +1,38 @@
+[
+  {
+    "package": "bssm",
+    "oncran": true
+  },
+  {
+    "package": "changer",
+    "oncran": true
+  },
+  {
+    "package": "diagis",
+    "oncran": true
+  },
+  {
+    "package": "KFAS",
+    "oncran": true
+  },
+  {
+    "package": "ramcmc",
+    "oncran": true
+  },
+  {
+    "package": "Rlibeemd",
+    "oncran": true
+  },
+  {
+    "package": "seqHMM",
+    "oncran": true
+  },
+  {
+    "package": "tsPI",
+    "oncran": true
+  },
+  {
+    "package": "walker",
+    "oncran": true
+  }
+]
