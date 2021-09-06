@@ -40,7 +40,7 @@
 	registered = true
 [submodule "ggstudent"]
 	path = ggstudent
-	url = https://github.com/helske/gstudent
+	url = https://github.com/helske/ggstudent
 	shallow = true
 	registered = true
 [submodule "tsPI"]
