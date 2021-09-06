@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/helske/universe
 	shallow = true
 	branch = HEAD
 [submodule "bssm"]
@@ -8,19 +8,24 @@
 	url = https://github.com/helske/bssm
 	shallow = true
 	registered = true
-[submodule "changer"]
-	path = changer
-	url = https://github.com/helske/changer
-	shallow = true
-	registered = true
-[submodule "diagis"]
-	path = diagis
-	url = https://github.com/helske/diagis
-	shallow = true
-	registered = true
 [submodule "KFAS"]
 	path = KFAS
-	url = https://github.com/helske/kfas
+	url = https://github.com/helske/KFAS
+	shallow = true
+	registered = true
+[submodule "seqHMM"]
+	path = seqHMM
+	url = https://github.com/helske/seqHMM
+	shallow = true
+	registered = true
+[submodule "walker"]
+	path = walker
+	url = https://github.com/helske/walker
+	shallow = true
+	registered = true
+[submodule "Rlibeemd"]
+	path = Rlibeemd
+	url = https://github.com/helske/Rlibeemd
 	shallow = true
 	registered = true
 [submodule "ramcmc"]
@@ -28,23 +33,28 @@
 	url = https://github.com/helske/ramcmc
 	shallow = true
 	registered = true
-[submodule "Rlibeemd"]
-	path = Rlibeemd
-	url = https://github.com/helske/rlibeemd
+[submodule "diagis"]
+	path = diagis
+	url = https://github.com/helske/diagis
 	shallow = true
 	registered = true
-[submodule "seqHMM"]
-	path = seqHMM
-	url = https://github.com/helske/seqhmm
+[submodule "ggstudent"]
+	path = ggstudent
+	url = https://github.com/helske/gstudent
 	shallow = true
 	registered = true
 [submodule "tsPI"]
 	path = tsPI
-	url = https://github.com/helske/tspi
+	url = https://github.com/helske/tsPI
 	shallow = true
 	registered = true
-[submodule "walker"]
-	path = walker
-	url = https://github.com/helske/walker
+[submodule "changer"]
+	path = changer
+	url = https://github.com/helske/changer
+	shallow = true
+	registered = true
+[submodule "particlefield"]
+	path = particlefield
+	url = https://github.com/helske/particlefield
 	shallow = true
 	registered = true

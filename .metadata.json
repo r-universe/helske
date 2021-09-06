@@ -4,23 +4,7 @@
     "oncran": true
   },
   {
-    "package": "changer",
-    "oncran": true
-  },
-  {
-    "package": "diagis",
-    "oncran": true
-  },
-  {
     "package": "KFAS",
-    "oncran": true
-  },
-  {
-    "package": "ramcmc",
-    "oncran": true
-  },
-  {
-    "package": "Rlibeemd",
     "oncran": true
   },
   {
@@ -28,11 +12,34 @@
     "oncran": true
   },
   {
+    "package": "walker",
+    "oncran": true
+  },
+  {
+    "package": "Rlibeemd",
+    "oncran": true
+  },
+  {
+    "package": "ramcmc",
+    "oncran": true
+  },
+  {
+    "package": "diagis",
+    "oncran": true
+  },
+  {
+    "package": "ggstudent",
+    "oncran": false
+  },
+  {
     "package": "tsPI",
     "oncran": true
   },
   {
-    "package": "walker",
+    "package": "changer",
     "oncran": true
+  },
+  {
+    "package": "particlefield"
   }
 ]
