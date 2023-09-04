@@ -2,36 +2,36 @@
 	path = .registry
 	url = https://github.com/helske/universe
 	branch = HEAD
-[submodule "bssm"]
-	path = bssm
-	url = https://github.com/helske/bssm
 [submodule "KFAS"]
 	path = KFAS
 	url = https://github.com/helske/KFAS
-[submodule "seqHMM"]
-	path = seqHMM
-	url = https://github.com/helske/seqHMM
-[submodule "walker"]
-	path = walker
-	url = https://github.com/helske/walker
 [submodule "Rlibeemd"]
 	path = Rlibeemd
 	url = https://github.com/helske/Rlibeemd
-[submodule "ramcmc"]
-	path = ramcmc
-	url = https://github.com/helske/ramcmc
+[submodule "bssm"]
+	path = bssm
+	url = https://github.com/helske/bssm
+[submodule "changer"]
+	path = changer
+	url = https://github.com/helske/changer
 [submodule "diagis"]
 	path = diagis
 	url = https://github.com/helske/diagis
 [submodule "ggstudent"]
 	path = ggstudent
 	url = https://github.com/helske/ggstudent
-[submodule "tsPI"]
-	path = tsPI
-	url = https://github.com/helske/tsPI
-[submodule "changer"]
-	path = changer
-	url = https://github.com/helske/changer
 [submodule "particlefield"]
 	path = particlefield
 	url = https://github.com/helske/particlefield
+[submodule "ramcmc"]
+	path = ramcmc
+	url = https://github.com/helske/ramcmc
+[submodule "seqHMM"]
+	path = seqHMM
+	url = https://github.com/helske/seqHMM
+[submodule "tsPI"]
+	path = tsPI
+	url = https://github.com/helske/tsPI
+[submodule "walker"]
+	path = walker
+	url = https://github.com/helske/walker
