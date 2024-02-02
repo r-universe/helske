@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/helske/universe
+	url = https://github.com/helske/helske.r-universe.dev
 	branch = HEAD
 [submodule "KFAS"]
 	path = KFAS
